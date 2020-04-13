@@ -16,4 +16,4 @@ relogio.vi -> <br>
 
 led_piscando.vi -> <br>
 
-exercicios8_despertador.vi -> <br>
+exercicios8_despertador.vi -> O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br> 
