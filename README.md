@@ -5,7 +5,7 @@ LabVIEW 2018 <br>
 Atalhos:<br>
 CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
-
+quick drop -> pesquisar controles, funções, etc. <br>
 
 outgoing mail SMTP: smtp.gmail.com <br>
 port: 587 <br>
