@@ -1,5 +1,6 @@
 # labview
 <br>
+Exercícios <br>
 
 ## Versão: <br>
 LabVIEW 2018 <br>
