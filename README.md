@@ -4,7 +4,7 @@ LabVIEW 2018 <br>
 
 Atalhos:<br>
 CTRL + T -> divide a tela <br>
-ctrl + H -> context help
+ctrl + H -> context help <br>
 
 
 outgoing mail SMTP: smtp.gmail.com <br>
