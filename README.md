@@ -32,7 +32,7 @@ led_piscando.vi -> Quando o programa é executado, os 3 leds ficam piscando na c
 
 exercicios8_despertador.vi -> O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br> 
 
-write_randoms.vi e read_randoms.vi -> Para o programa write_randoms, o usuário deve escolher. Para o programa read_randoms, o usuário deve escolher o arquivo .txt que deseja ler em file path (use dialog) e clicar no botão ler, na parte string irá aparecer o que será lido. Para terminar o programa clique no botão STOP. <br>
+write_randoms.vi e read_randoms.vi -> Para o programa write_randoms, o usuário deve escolher o arquivo .txt para escrever em file path (use dialog), em seguida o programa retornará na parte string e escreverá no arquivo um número randômico com precisão de 2 casas decimais seguido da data e do horário que foi escrito. Para o programa read_randoms, o usuário deve escolher o arquivo .txt que deseja ler em file path (use dialog) e clicar no botão ler, na parte string irá aparecer o que será lido. Para terminar o programa clique no botão STOP. <br>
 
 write_other_randoms.vi e read_other_randoms.vi -> <br>
 
