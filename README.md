@@ -56,7 +56,13 @@ Source out e code out: Apresenta a fonte do erro e o código presente no uso do 
 Error out 2: Erros concatenados. <br>
 Error out: Limpa o erro. <br>
 
-
+### /labview/queue_operations/:
+### exercicios13_queue.vi->
+O usuário pode digitar qualquer mensagem em Comandos, que irá aparecer no Histórico quando clicar em Enviar. Se o Comandos conter piscarLED1 ou piscarLED2 ou piscarLED3, um dos leds acende de acordo com o número escolhido. Caso contenha ++ e --, incrementa 1 em Numeric ou decrementa 1 em Numeric, respectivamente. <br>
+### queue.vi -> 
+Exercícios feitos enquanto acompanhava a aula. Quando o usuário clica em OK button, o elemento True é adicionado na fila, e o led element e element 2 acendem mostrando que o elemento true foi incluído na fila. <br>
+### queue2.vi ->
+Exercícios feitos enquanto acompanhava a aula. O usuário deve digitar um texto e clicar em enviar. Logo em seguida aparecerá uma mensagem na tela com o que ele digitou. O usuário deve digitar um texto que não seja vazio para aparecer a mensagem na tela. Se o texto for igual a "sair", aparecerá uma mensagem na tela escrito sair, quando clicar em sair, o programa finalizará. <br>
 
 ### labview/:
 ### relogio.vi -> 
