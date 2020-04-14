@@ -37,8 +37,9 @@ write_other_randoms.vi e read_other_randoms.vi -> Para o programa write_other_ra
 dui = paleta dialog & user interface <br>
 exercicios12_dui.vi -> <br> 
 Exercício 1: 15 números randômicos gerados em um gráfico quando o usuário clica no botão Gerar. Se o usuário clicar no botão Finalizar, irá aparecer uma caixa de mensagem perguntando se ele deseja finalizar a execução. Caso a resposta seja Sim, o programa finalizará. Caso a resposta seja Não, o programa continuará aberto. <br>
-Exercício 2: O usuário deve digitar o Nome, Número, Mensagem e clicar em Enviar. Logo em seguida, aparecerá quantos caracteres deu a mensagem e aparecerá uma janela com as informações digitadas. <br>
-dui.vi ->
+Exercício 2: O usuário deve digitar o Nome, Número, Mensagem e clicar em Enviar. Logo em seguida, aparecerá quantos caracteres deu a mensagem e aparecerá uma janela com as informações digitadas. <br> <br>
+dui.vi -> Exercícios feitos enquanto assistia a aula, irá aparecer várias mensagens na tela quando o usuário executar o programa.
+<br>
 
 
 
