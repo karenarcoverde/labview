@@ -31,3 +31,8 @@ relogio.vi -> O usuário precisa escolher um horário para começar a contar as 
 led_piscando.vi -> Quando o programa é executado, os 3 leds ficam piscando na cor azul. <br>
 
 exercicios8_despertador.vi -> O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br> 
+
+write_randoms.vi e read_randoms.vi -> <br>
+
+write_other_randoms.vi e read_other_randoms.vi -> <br>
+
