@@ -74,5 +74,26 @@ Quando o programa é executado, os 3 leds ficam piscando na cor azul. <br>
 ### exercicios8_despertador.vi -> 
 O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br> 
 
+### array.vi -> <br>
+Apenas exemplos de tipos de array, não deve executar o programa. Exemplos de concatenação de arrays, arrays concatenados e o tamanho do array, retornando quantidade de linhas e colunas, array de booleans, matriz e como usar o time delay para mostrar erro. <br> 
+
+### clusters.vi -> <br>
+Alguns exemplos de clusters, não deve executar o programa. Exemplos de array of clusters, cluster constant, bundle, unbundle de clusters. <br>
+### exercicio5_boolean.vi -> <br> 
+Exercícios de circuitos lógicos, ao executar o programa, o usuário poderá escolher os leds acesos e apagados e terá uma saída mostrando o resultado da escolha feita pelo usuário. <br>
+
+### exercicios1_introducao.vi -> <br> 
+
+
+### exercicios2_variaveis.vi -> <br> 
+
+### exercicios3_numeric.vi -> <br>
+
+### exercicios4_comparation.vi -> <br>
+
+### exercicios6_string.vi -> <br> 
+
+### exercicios7_structures.vi -> <br> 
+
 
 
