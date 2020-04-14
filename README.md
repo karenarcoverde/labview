@@ -40,6 +40,16 @@ Exercício 1: 15 números randômicos gerados em um gráfico quando o usuário c
 Exercício 2: O usuário deve digitar o Nome, Número, Mensagem e clicar em Enviar. Logo em seguida, aparecerá quantos caracteres deu a mensagem e aparecerá uma janela com as informações digitadas. <br> <br>
 dui.vi -> Exercícios feitos enquanto assistia a aula, irá aparecer várias mensagens na tela quando o usuário executar o programa.
 <br>
+Essa é uma mensagem de teste!: Se clicar em Sair, o led true acende e a mensagem fecha. <br>
+Mensagem!: Pode clicar em Iniciar ou Cancelar, T button? acende para Iniciar e apaga para Cancelar <br>
+Essa é uma mensagem de texto! Which Button? irá dizer qual opção foi escolhida em Center, Left, Right Button, se a resposta for Sim, Não, Cancelar. <br>
+Erro de Processamento: Aparece a mensagem "Erro de processamento, feche a aplicação." Clicando em OK ou Cancelar, a mensagem fecha. <br>
+Salvar Arquivo?: Se sim, aparece outra mensagem dizendo Documento Salvo!, Caso Não: o programa fica em looping perguntando se deseja salvar arquivo. <br>
+Ok Button: Clicando em um dos três botões, aparecem diferentes mensagens: Iniciado, Dados, Salvo. E o led true 2, 3 e 4 acende dependendo de qual botão for clicado. <br>
+
+
+
+<br>
 
 
 
