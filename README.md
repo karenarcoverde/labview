@@ -51,10 +51,10 @@ Essa é uma mensagem de texto! Which Button? irá dizer qual opção foi escolhi
 Erro de Processamento: Aparece a mensagem "Erro de processamento, feche a aplicação." Clicando em OK ou Cancelar, a mensagem fecha. <br>
 Salvar Arquivo?: Se sim, aparece outra mensagem dizendo Documento Salvo!, Caso Não: o programa fica em looping perguntando se deseja salvar arquivo. <br>
 Ok Button: Clicando em um dos três botões, aparecem diferentes mensagens: Iniciado, Dados, Salvo. E o led true 2, 3 e 4 acende dependendo de qual botão for clicado. <br>
-
-
-
-<br>
+Mensagem: Clique em OK e a mensagem fecha. <br>
+Source out e code out: Apresenta a fonte do erro e o código presente no uso do serial VISA. <br>
+Error out 2: Erros concatenados. <br>
+Error out: Limpa o erro. <br>
 
 
 
