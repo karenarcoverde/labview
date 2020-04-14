@@ -4,7 +4,7 @@
 ## Versão: <br>
 LabVIEW 2018 <br>
 
-### Atalhos: <br>
+## Atalhos: <br>
 CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
 ctrl + space -> quick drop <br>
