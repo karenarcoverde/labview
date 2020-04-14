@@ -7,6 +7,7 @@ CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
 ctrl + space -> quick drop <br>
 
+É necessário utilizar essas informações para poder usar na pasta email: <br>
 outgoing mail SMTP: smtp.gmail.com <br>
 port: 587 <br>
 use TLS: change to true <br> 
