@@ -7,11 +7,12 @@ CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
 ctrl + space -> quick drop <br>
 
-É necessário utilizar essas informações para poder usar na pasta email: <br>
+É necessário utilizar essas informações para poder usar na pasta email (caso seu email seja gmail): <br>
 outgoing mail SMTP: smtp.gmail.com <br>
 port: 587 <br>
 use TLS: change to true <br> 
 username = your email <br> 
+OBS: Lembre-se de ativar a POP/IMAP (em configurações -> Encaminhamento e POP/IMAP) e ativar email menos seguros (Gerenciar sua Conta do Google -> Segurança -> Acesso a app menos seguro) no gmail <br> 
 
 É necessário abrir o arquivo .vi, clique na seta para direita (Run) no painel frontal para executar o programa.  <br>
 
