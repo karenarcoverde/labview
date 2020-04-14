@@ -33,6 +33,15 @@ write_randoms.vi e read_randoms.vi -> Para o programa write_randoms, o usuário 
 
 write_other_randoms.vi e read_other_randoms.vi -> Para o programa write_other_randoms, o usuário deve executar o programa, logo em seguida será mostrado um gráfico com 100 números aleatórios gerados. Inicialmente o número 1000 é dividido por i = 1 e multiplicado por um número randômico, nas próximas iterações, o valor guardado é sempre dividido por i e depois multiplicado por um número randômico. Para o programa read_other_randoms, os 100 números guardados e gerados a partir do write_other_randoms são mostrados em um gráfico ao executar o programa. <br>
 
+### labview/dui/:
+dui = paleta dialog & user interface 
+exercicios12_dui.vi -> 
+Exercício 1: 15 números randômicos gerados em um gráfico quando o usuário clica no botão Gerar. Se o usuário clicar no botão Finalizar, irá aparecer uma caixa de mensagem perguntando se ele deseja finalizar a execução. Caso a resposta seja Sim, o programa finalizará. Caso a resposta seja Não, o programa continuará aberto. <br>
+Exercício 2: O usuário deve digitar o Nome, Número, Mensagem e clicar em Enviar. Logo em seguida, aparecerá quantos caracteres deu a mensagem e aparecerá uma janela com as informações digitadas. <br>
+dui.vi ->
+
+
+
 ### labview/:
 relogio.vi -> O usuário precisa escolher um horário para começar a contar as horas. Quando ele clicar em "Definir", o relógio começa a contar os segundos, minutos e horas (Um led fica piscando para mostrar que o tempo está sendo contado a partir daquele momento definido pelo usuário). <br>
 
