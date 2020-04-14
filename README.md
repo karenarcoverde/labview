@@ -18,7 +18,7 @@ OBS: Lembre-se de ativar o POP/IMAP (em configurações -> Encaminhamento e POP/
 
 controle_temperatura_email.vi -> Quando a temperatura passa do limite escolhido pelo usuário (no controle Dial), é enviado um email avisando que a temperatura está fora do controle e o programa termina (preencher os campos que estão faltando para o email ser enviado no block diagram). <br>
 
-email.vi -> O usuário deve digitar outgoing mail SMTP, Port (porta), To (para quem quer mandar), From (enviado por quem), username (= seu email (from)), password (senha do email), ative use TLS (false) para true, subject (assunto), plain text message (mensagem). Clique em Run e o email será enviado. <br>
+email.vi -> O usuário deve digitar outgoing mail SMTP, Port (porta), To (para quem quer mandar), From (enviado por quem), username (= seu email - from), password (senha do email), ative use TLS (false) para true - clique para aparecer a cor verde claro de aceso, subject (assunto), plain text message (mensagem). Clique em Run e o email será enviado. <br>
 
 relogio.vi -> O usuário precisa escolher um horário para começar a contar as horas. Quando ele clicar em "Definir", o relógio começa a contar os segundos, minutos e horas (Um led fica piscando para mostrar que o tempo está sendo contado a partir daquele momento definido pelo usuário). <br>
 
