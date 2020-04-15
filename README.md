@@ -37,6 +37,12 @@ Para o programa write_randoms, o usuário para escrever deve escolher o arquivo 
 ### write_other_randoms.vi e read_other_randoms.vi -> 
 Para o programa write_other_randoms, o usuário deve executar o programa, logo em seguida será mostrado um gráfico com 100 números aleatórios gerados. Inicialmente o número 1000 é dividido por i = 1 e multiplicado por um número randômico, nas próximas iterações, o valor guardado é sempre dividido por i e depois multiplicado por um número randômico. Para o programa read_other_randoms, os 100 números guardados e gerados a partir do write_other_randoms são mostrados em um gráfico ao executar o programa. <br>
 
+### /labview/subvi/:
+### soma.vi	-> 
+Não execute o programa. Apenas é um SubVi da soma de um número (x) com 10 depois o resultado multiplicado por outro número (y). <br>
+### soma_com_subvi.vi ->
+Execute o programa e o valor de x+10 e (x+10)*y irá aparecer no painel frontal. <br>
+
 ### labview/dui/:
 dui = paleta dialog & user interface <br>
 ### exercicios12_dui.vi -> <br> 
