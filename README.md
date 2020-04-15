@@ -94,7 +94,7 @@ Aprendendo a somar, dividir, multiplicar, etc. Exemplo de Soma, Perda de Carga L
 ### exercicios4_comparation.vi -> <br>
 Exercícios feitos 
 ### exercicios6_string.vi -> <br> 
-Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo, converter string para número, número para string
+Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo, converter string para número, número para string. Exemplo que concatena strings, se a string digitada pelo usuário tiver o tamanho maior que 3, a nova string formada começa na posição 3 até o tamanho da string -1. Caso contrário, começa da posição zero até o tamanho -1. Além disso, se tiver o caractere "o", é trocado por "a". Logo em seguida, aparecerá no painel frontal a nova string. <br>
 ### exercicios7_structures.vi -> <br> 
 
 
