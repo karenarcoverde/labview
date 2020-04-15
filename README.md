@@ -83,16 +83,18 @@ Alguns exemplos de clusters, não deve executar o programa. Exemplos de array of
 Exercícios de circuitos lógicos, ao executar o programa, o usuário poderá escolher os leds acesos e apagados e terá uma saída mostrando o resultado da escolha feita pelo usuário. <br>
 
 ### exercicios1_introducao.vi -> <br> 
-
+Apenas exemplos tirados da paleta, não deve executar o programa. Aprendendo a mexer no programa. <br>
 
 ### exercicios2_variaveis.vi -> <br> 
+Apenas exemplos tirados da paleta, não deve executar o programa. Aprendendo a mexer no programa, sabendo os tipos de variaveis e a 
+diferença de controle e indicador. <br>
 
 ### exercicios3_numeric.vi -> <br>
-
+Aprendendo a somar, dividir, multiplicar, etc. Exemplo de Soma, Perda de Carga Localizada, Área, etc., criar número randômico, multiplicar por 10 e converter para número inteiro. O usuário poderá escolher valores de x e y no painel frontal para ter o resultado da soma. Para descobrir o valor da Perda de Carga Localiza, Área, etc., o usuário deverá mudar as entradas no diagrama de bloco, executar o programa e terá o resultado no painel frontal. Existe também um Somatório Total do resultado de todas as equações feitas que poderá ser visto no painel frontal.  <br>
 ### exercicios4_comparation.vi -> <br>
-
+Exercícios feitos 
 ### exercicios6_string.vi -> <br> 
-
+Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo, converter string para número, número para string
 ### exercicios7_structures.vi -> <br> 
 
 
