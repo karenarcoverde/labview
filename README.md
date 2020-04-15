@@ -99,7 +99,7 @@ Aprendendo a somar, dividir, multiplicar, etc. Exemplo de Soma, Perda de Carga L
 Exercícios feitos para aprender a comparar strings e valores. <br>
 Exercício 1: O usuário deve digitar duas strings antes de executar o programa no painel frontal. Assim, compara duas strings, se for igual o led acende. Se a palavra 1 ou 2 for um número, o led acende, respectivamente.  <br>
 Exercício 2: O usuário apenas deve executar o programa e observar o valor gerado no painel frontal. Gera um número aleatório de 1 a 10, se for maior que 5, o led acende. O numeric mostra o valor gerado em  número inteiro. <br>
-Exercício 3: 
+Exercício 3: O usuário deve digitar 3 valores para calcular o volume do cubo, se o resultado for maior ou igual a 300, o volume é multiplicado por 2. O valor do volume e o resultado multiplicado aparecerá no painel frontal após a execução do programa. <br>
 
 ### exercicios6_string.vi -> <br> 
 Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo (aparecerá no painel frontal mostrando se é palíndromo ou não), converter string para número, número para string (aparecerá no painel frontal a conversão). Exemplo que concatena strings, se a string digitada pelo usuário tiver o tamanho maior que 3, a nova string formada começa na posição 3 até o tamanho da string -1. Caso contrário, começa da posição zero até o tamanho -1. Além disso, se tiver o caractere "o", é trocado por "a". Logo em seguida, aparecerá no painel frontal a nova string. O usuário precisa digitar as strings e executar o programa. <br>
