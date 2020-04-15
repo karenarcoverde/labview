@@ -41,7 +41,7 @@ Para o programa write_other_randoms, o usuário deve executar o programa, logo e
 ### soma.vi	-> 
 Não execute o programa. Apenas é um SubVi da soma de um número (x) com 10 depois o resultado multiplicado por outro número (y). <br>
 ### soma_com_subvi.vi ->
-Execute o programa e o valor de x+10 e (x+10)*y irá aparecer no painel frontal. <br>
+Execute o programa e o valor de x+10 e (x+10)*y irá aparecer no painel frontal. Este programa foi feito usando o subvi soma.vi. <br>
 
 ### labview/dui/:
 dui = paleta dialog & user interface <br>
