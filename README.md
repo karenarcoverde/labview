@@ -96,6 +96,9 @@ Exercícios feitos
 ### exercicios6_string.vi -> <br> 
 Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo (aparecerá no painel frontal mostrando se é palíndromo ou não), converter string para número, número para string (aparecerá no painel frontal a conversão). Exemplo que concatena strings, se a string digitada pelo usuário tiver o tamanho maior que 3, a nova string formada começa na posição 3 até o tamanho da string -1. Caso contrário, começa da posição zero até o tamanho -1. Além disso, se tiver o caractere "o", é trocado por "a". Logo em seguida, aparecerá no painel frontal a nova string. O usuário precisa digitar as strings e executar o programa. <br>
 ### exercicios7_structures.vi -> <br> 
-
+Exercício 1: O usuário pode escolher 3 cores (azul, vermelho e verde) no diagrama de bloco, a cor aparecerá no painel frontal quando for executado o programa. <br>
+Exercício 2: Volume de um cilindro. Mude os valores de D (Diâmetro) e H (Altura) no diagrama de bloco, no painel frontal irá aparecer o volume após executar o programa. <br>
+Exercício 3: Números de 1 a 9 são gerados, se o número for maior que 5, é colocado em 1. Um gráfico com os valores gerados e modificados é mostrado no painel frontal junto com o array gerado. <br>
+Exercício 4: 
 
 
