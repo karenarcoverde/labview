@@ -59,8 +59,10 @@ Error out: Limpa o erro. <br>
 ### /labview/queue_operations/:
 ### exercicios13_queue.vi->
 O usuário pode digitar qualquer mensagem em Comandos, que irá aparecer no Histórico quando clicar em Enviar. Se o Comandos conter piscarLED1 ou piscarLED2 ou piscarLED3, um dos leds acende de acordo com o número escolhido. Caso contenha ++ e --, incrementa 1 em Numeric ou decrementa 1 em Numeric, respectivamente. <br>
+
 ### queue.vi -> 
 Exercícios feitos enquanto acompanhava a aula. Quando o usuário clica em OK button, o elemento True é adicionado na fila, e o led element e element 2 acendem mostrando que o elemento true foi incluído na fila. <br>
+
 ### queue2.vi ->
 Exercícios feitos enquanto acompanhava a aula. O usuário deve digitar um texto e clicar em enviar. Logo em seguida aparecerá uma mensagem na tela com o que ele digitou. O usuário deve digitar um texto que não seja vazio para aparecer a mensagem na tela. Se o texto for igual a "sair", aparecerá uma mensagem na tela escrito sair, quando clicar em sair, o programa finalizará. <br>
 
@@ -79,6 +81,7 @@ Apenas exemplos de tipos de array, não deve executar o programa. Exemplos de co
 
 ### clusters.vi -> <br>
 Alguns exemplos de clusters, não deve executar o programa. Exemplos de array of clusters, cluster constant, bundle, unbundle de clusters. <br>
+
 ### exercicio5_boolean.vi -> <br> 
 Exercícios de circuitos lógicos, ao executar o programa, o usuário poderá escolher os leds acesos e apagados e terá uma saída mostrando o resultado da escolha feita pelo usuário. <br>
 
@@ -91,10 +94,16 @@ diferença de controle e indicador. <br>
 
 ### exercicios3_numeric.vi -> <br>
 Aprendendo a somar, dividir, multiplicar, etc. Exemplo de Soma, Perda de Carga Localizada, Área, etc., criar número randômico, multiplicar por 10 e converter para número inteiro. O usuário poderá escolher valores de x e y no painel frontal para ter o resultado da soma. Para descobrir o valor da Perda de Carga Localiza, Área, etc., o usuário deverá mudar as entradas no diagrama de bloco, executar o programa e terá o resultado no painel frontal. Existe também um Somatório Total do resultado de todas as equações feitas que poderá ser visto no painel frontal.  <br>
+
 ### exercicios4_comparation.vi -> <br>
-Exercícios feitos 
+Exercícios feitos para aprender a comparar strings e valores. <br>
+Exercício 1: O usuário deve digitar duas strings antes de executar o programa no painel frontal. Assim, compara duas strings, se for igual o led acende. Se a palavra 1 ou 2 for um número, o led acende, respectivamente.  <br>
+Exercício 2: O usuário apenas deve executar o programa e observar o valor gerado no painel frontal. Gera um número aleatório de 1 a 10, se for maior que 5, o led acende. O numeric mostra o valor gerado em  número inteiro. <br>
+Exercício 3: 
+
 ### exercicios6_string.vi -> <br> 
 Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo (aparecerá no painel frontal mostrando se é palíndromo ou não), converter string para número, número para string (aparecerá no painel frontal a conversão). Exemplo que concatena strings, se a string digitada pelo usuário tiver o tamanho maior que 3, a nova string formada começa na posição 3 até o tamanho da string -1. Caso contrário, começa da posição zero até o tamanho -1. Além disso, se tiver o caractere "o", é trocado por "a". Logo em seguida, aparecerá no painel frontal a nova string. O usuário precisa digitar as strings e executar o programa. <br>
+
 ### exercicios7_structures.vi -> <br> 
 Exercício 1: O usuário pode escolher 3 cores (azul, vermelho e verde) no diagrama de bloco, a cor aparecerá no painel frontal quando for executado o programa. <br>
 Exercício 2: Volume de um cilindro. Mude os valores de D (Diâmetro) e H (Altura) no diagrama de bloco, no painel frontal irá aparecer o volume após executar o programa. <br>
