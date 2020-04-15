@@ -99,6 +99,6 @@ Exercícios feitos sobre string, para descobrir se uma palavra é palíndromo (a
 Exercício 1: O usuário pode escolher 3 cores (azul, vermelho e verde) no diagrama de bloco, a cor aparecerá no painel frontal quando for executado o programa. <br>
 Exercício 2: Volume de um cilindro. Mude os valores de D (Diâmetro) e H (Altura) no diagrama de bloco, no painel frontal irá aparecer o volume após executar o programa. <br>
 Exercício 3: Números de 1 a 9 são gerados, se o número for maior que 5, é colocado em 1. Um gráfico com os valores gerados e modificados é mostrado no painel frontal junto com o array gerado. <br>
-Exercício 4: 
+Exercício 4: Um gráfico é gerado quando o usuário mudar os valores do slide no painel frontal. O número de pontos no gráfico é formado a partir da divisão do slide por 10. O valor encontrado no gráfico é feito a partir da divisão do slide pelo i (número de loops). O programa só acaba quando o botão Stop é pressionado. <br>
 
 
