@@ -10,7 +10,7 @@ CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
 ctrl + space -> quick drop <br>
 
-## Observação: <br>
+## Observações: <br>
 É necessário utilizar essas informações para poder usar na pasta email (caso seu email seja gmail): <br>
 outgoing mail SMTP: smtp.gmail.com <br>
 port: 587 <br>
@@ -28,6 +28,13 @@ Quando a temperatura passa do limite escolhido pelo usuário (no controle Dial),
 
 ### email.vi ->
 O usuário deve digitar outgoing mail SMTP, Port (porta), To (para quem quer mandar), From (enviado por quem), username (= seu email - from), password (senha do email), ative use TLS (false) para true - clique para aparecer a cor verde claro de aceso, subject (assunto), plain text message (mensagem). Clique em Run e o email será enviado. <br>
+
+### /labview/despertador/:
+### exercicios8_despertador.vi -> 
+O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br>
+
+### despertador.exe -> 
+Executável do exercicios8_despertador.vi. É necessário ter instalado o RunTime do LabVIEW. Siga os mesmos passos anteriores para executar o programa. <br>
 
 ### labview/exercicio_14_arquivos/:
 ### write_randoms.vi e read_randoms.vi -> 
@@ -78,9 +85,6 @@ O usuário precisa escolher um horário para começar a contar as horas. Quando 
 
 ### led_piscando.vi ->
 Quando o programa é executado, os 3 leds ficam piscando na cor azul. <br>
-
-### exercicios8_despertador.vi -> 
-O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br> 
 
 ### array.vi -> <br>
 Apenas exemplos de tipos de array, não deve executar o programa. Exemplos de concatenação de arrays, arrays concatenados e o tamanho do array, retornando quantidade de linhas e colunas, array de booleans, matriz e como usar o time delay para mostrar erro. <br> 
