@@ -22,7 +22,7 @@ username = your email <br>
 ### É necessário abrir o arquivo .vi, clique na seta para direita (Run) no painel frontal para executar o programa.  <br>
 
 ## Descrição sobre cada programa: <br>
-### labview/email/: 
+### /labview/email/: 
 ### controle_temperatura_email.vi ->
 Quando a temperatura passa do limite escolhido pelo usuário (no controle Dial), é enviado um email avisando que a temperatura está fora do controle e o programa termina (preencher os campos que estão faltando para o email ser enviado no block diagram). <br>
 
@@ -36,7 +36,7 @@ O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 2
 ### despertador.exe -> 
 Executável do exercicios8_despertador.vi. É necessário ter instalado o RunTime do LabVIEW. Siga os mesmos passos anteriores para executar o programa. <br>
 
-### labview/exercicio_14_arquivos/:
+### /labview/exercicio_14_arquivos/:
 ### write_randoms.vi e read_randoms.vi -> 
 Para o programa write_randoms, o usuário para escrever deve escolher o arquivo .txt em file path (use dialog), em seguida o programa retornará na parte string e escreverá no arquivo um número randômico com precisão de 2 casas decimais seguido da data e do horário que foi escrito. Para o programa read_randoms, o usuário deve escolher o arquivo .txt que deseja ler em file path (use dialog) e clicar no botão ler, na parte string irá aparecer o que será lido. Para terminar o programa clique no botão STOP. <br>
 
@@ -50,7 +50,7 @@ Não execute o programa. Apenas é um SubVi da soma de um número x com 10 depoi
 ### soma_com_subvi.vi ->
 Execute o programa e o valor de x+10 e (x+10)*y irá aparecer no painel frontal (considerando x = 10 e y = 2). Este programa foi feito usando o subvi soma.vi. <br>
 
-### labview/dui/:
+### /labview/dui/:
 dui = paleta dialog & user interface <br>
 ### exercicios12_dui.vi -> <br> 
 Exercício 1: 15 números randômicos gerados em um gráfico quando o usuário clica no botão Gerar. Se o usuário clicar no botão Finalizar, irá aparecer uma caixa de mensagem perguntando se ele deseja finalizar a execução. Caso a resposta seja Sim, o programa finalizará. Caso a resposta seja Não, o programa continuará aberto. <br>
@@ -79,7 +79,7 @@ Exercícios feitos enquanto acompanhava a aula. Quando o usuário clica em OK bu
 ### queue2.vi ->
 Exercícios feitos enquanto acompanhava a aula. O usuário deve digitar um texto e clicar em enviar. Logo em seguida aparecerá uma mensagem na tela com o que ele digitou. O usuário deve digitar um texto que não seja vazio para aparecer a mensagem na tela. Se o texto for igual a "sair", aparecerá uma mensagem na tela escrito sair, quando clicar em sair, o programa finalizará. <br>
 
-### labview/:
+### /labview/:
 ### relogio.vi -> 
 O usuário precisa escolher um horário para começar a contar as horas. Quando ele clicar em "Definir", o relógio começa a contar os segundos, minutos e horas (Um led fica piscando para mostrar que o tempo está sendo contado a partir daquele momento definido pelo usuário). <br>
 
