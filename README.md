@@ -37,6 +37,11 @@ Observações: <br>
 Lembre-se de ter instalado o MySql ODBC Driver compatível com a sua versão do LabVIEW, como por exemplo ser x64 tanto no LabVIEW como no MySql. <br>
 Esse programa precisa ser criado um arquivo .udl. Veja no link como criar um arquivo .udl. Essa pasta acompanha um arquivo .udl para testar o programa. <br>
 
+### insert_data.vi ->
+O usuário deve inserir id, data e temp (temperatura), o arquivo .udl em "connection information" e a tabela em "table". As informações serão adicionadas no MySql em uma nova linha. <br>
+
+Observação: Existe um print com o painel frontal e o diagrama de blocos do insert_data e do select_data para poder visualizar como funciona o programa. <br>
+
 ### /labview/despertador/:
 ### exercicios8_despertador.vi -> 
 O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br>
