@@ -1,6 +1,6 @@
 # labview
 <br>
-Exercícios feitos enquanto estudava para o curso da Udemy: LabVIEW & Arduino <br>
+Exercícios <br>
 
 ## Versão: <br>
 LabVIEW 2018 <br>
