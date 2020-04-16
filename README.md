@@ -3,7 +3,7 @@
 Exercícios <br>
 
 ## Versão: <br>
-LabVIEW 2018 e LabVIEW 2019 (MySql) <br>
+LabVIEW 2018 (all except MySql) and LabVIEW 2019 (MySql only) <br>
 
 ## Atalhos: <br>
 CTRL + T -> divide a tela <br>
