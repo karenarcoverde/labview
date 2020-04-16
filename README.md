@@ -29,6 +29,14 @@ Quando a temperatura passa do limite escolhido pelo usuário (no controle Dial),
 ### email.vi ->
 O usuário deve digitar outgoing mail SMTP, Port (porta), To (para quem quer mandar), From (enviado por quem), username (= seu email - from), password (senha do email), ative use TLS (false) para true - clique para aparecer a cor verde claro de aceso, subject (assunto), plain text message (mensagem). Clique em Run e o email será enviado. <br>
 
+### /labview/MySql/:
+### select_data.vi -> 
+Esse programa lê os dados contidos em uma tabela do MySql. O usuário deve colocar o arquivo com extensão .udl em "connection information" e o nome da tabela em "table" e clicar em Run. Em seguida, aparecerá os dados em forma de tabela em "data". <br>
+Para conectar o LabVIEW com o MySql, o usuário deve seguir os passos nesse link: https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P9TISA0&l=pt-BR <br>
+Observações: <br>
+Lembre-se de ter instalado o MySql ODBC Driver compatível com a sua versão do LabVIEW, como por exemplo ser x64 tanto no LabVIEW como no MySql. <br>
+Esse programa precisa ser criado um arquivo .udl. Veja no link como criar um arquivo .udl. Essa pasta acompanha um arquivo .udl para testar o programa. <br>
+
 ### /labview/despertador/:
 ### exercicios8_despertador.vi -> 
 O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 24h, Minutos). Quando é apertado o botão "Definir", o relógio mostra a hora atual. No momento que der o horário escolhido, o led irá acender. <br>
