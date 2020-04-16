@@ -29,6 +29,8 @@ Quando a temperatura passa do limite escolhido pelo usuário (no controle Dial),
 ### email.vi ->
 O usuário deve digitar outgoing mail SMTP, Port (porta), To (para quem quer mandar), From (enviado por quem), username (= seu email - from), password (senha do email), ative use TLS (false) para true - clique para aparecer a cor verde claro de aceso, subject (assunto), plain text message (mensagem). Clique em Run e o email será enviado. <br>
 
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
+
 ### /labview/MySql/:
 ### select_data.vi -> 
 Esse programa lê os dados contidos em uma tabela do MySql. O usuário deve colocar o arquivo com extensão .udl em "connection information" e o nome da tabela em "table" e clicar em Run. Em seguida, aparecerá os dados em forma de tabela em "data". <br>
@@ -48,10 +50,22 @@ O usuário precisa digitar um horário para o despertador tocar (No Campo Hora 2
 
 ### despertador.exe -> 
 Executável do exercicios8_despertador.vi. É necessário ter instalado o RunTime do LabVIEW. Siga os mesmos passos anteriores para executar o programa. <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
+
+### /labview/relogio/:
+### relogio.vi -> 
+O usuário precisa escolher um horário para começar a contar as horas. Quando ele clicar em "Definir", o relógio começa a contar os segundos, minutos e horas (Um led fica piscando para mostrar que o tempo está sendo contado a partir daquele momento definido pelo usuário). <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
+
+### /labview/led_piscando/:
+### led_piscando.vi ->
+Quando o programa é executado, os 3 leds ficam piscando na cor azul. <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
 
 ### /labview/exercicio_14_arquivos/:
 ### write_randoms.vi e read_randoms.vi -> 
 Para o programa write_randoms, o usuário para escrever deve escolher o arquivo .txt em file path (use dialog), em seguida o programa retornará na parte string e escreverá no arquivo um número randômico com precisão de 2 casas decimais seguido da data e do horário que foi escrito. Para o programa read_randoms, o usuário deve escolher o arquivo .txt que deseja ler em file path (use dialog) e clicar no botão ler, na parte string irá aparecer o que será lido. Para terminar o programa clique no botão STOP. <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
 
 
 ### write_other_randoms.vi e read_other_randoms.vi -> 
@@ -68,6 +82,8 @@ dui = paleta dialog & user interface <br>
 ### exercicios12_dui.vi -> <br> 
 Exercício 1: 15 números randômicos gerados em um gráfico quando o usuário clica no botão Gerar. Se o usuário clicar no botão Finalizar, irá aparecer uma caixa de mensagem perguntando se ele deseja finalizar a execução. Caso a resposta seja Sim, o programa finalizará. Caso a resposta seja Não, o programa continuará aberto. <br>
 Exercício 2: O usuário deve digitar o Nome, Número, Mensagem e clicar em Enviar. Logo em seguida, aparecerá quantos caracteres deu a mensagem e aparecerá uma janela com as informações digitadas. <br> <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
+
 ### dui.vi -> 
 Exercícios feitos enquanto assistia a aula, irá aparecer várias mensagens na tela quando o usuário executar o programa.
 <br>
@@ -85,6 +101,7 @@ Error out: Limpa o erro. <br>
 ### /labview/queue_operations/:
 ### exercicios13_queue.vi->
 O usuário pode digitar qualquer mensagem em Comandos, que irá aparecer no Histórico quando clicar em Enviar. Se o Comandos conter piscarLED1 ou piscarLED2 ou piscarLED3, um dos leds acende de acordo com o número escolhido. Caso contenha ++ e --, incrementa 1 em Numeric ou decrementa 1 em Numeric, respectivamente. <br>
+Observação: Existe um print (.pdf) com o painel frontal e o diagrama de blocos para poder visualizar como funciona o programa. <br>
 
 ### queue.vi -> 
 Exercícios feitos enquanto acompanhava a aula. Quando o usuário clica em OK button, o elemento True é adicionado na fila, e o led element e element 2 acendem mostrando que o elemento true foi incluído na fila. <br>
@@ -93,11 +110,6 @@ Exercícios feitos enquanto acompanhava a aula. Quando o usuário clica em OK bu
 Exercícios feitos enquanto acompanhava a aula. O usuário deve digitar um texto e clicar em enviar. Logo em seguida aparecerá uma mensagem na tela com o que ele digitou. O usuário deve digitar um texto que não seja vazio para aparecer a mensagem na tela. Se o texto for igual a "sair", aparecerá uma mensagem na tela escrito sair, quando clicar em sair, o programa finalizará. <br>
 
 ### /labview/:
-### relogio.vi -> 
-O usuário precisa escolher um horário para começar a contar as horas. Quando ele clicar em "Definir", o relógio começa a contar os segundos, minutos e horas (Um led fica piscando para mostrar que o tempo está sendo contado a partir daquele momento definido pelo usuário). <br>
-
-### led_piscando.vi ->
-Quando o programa é executado, os 3 leds ficam piscando na cor azul. <br>
 
 ### array.vi -> <br>
 Apenas exemplos de tipos de array, não deve executar o programa. Exemplos de concatenação de arrays, arrays concatenados e o tamanho do array, retornando quantidade de linhas e colunas, array de booleans, matriz e como usar o time delay para mostrar erro. <br> 
