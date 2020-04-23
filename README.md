@@ -5,6 +5,9 @@ Exercícios <br>
 ## Versão: <br>
 LabVIEW 2018 (all except MySql) and LabVIEW 2019 (MySql only) <br>
 
+## Objetivo:
+Aprimorar meu conhecimento em LabVIEW ao fazer exercícios sobre o assunto. <br>
+
 ## Atalhos: <br>
 CTRL + T -> divide a tela <br>
 ctrl + H -> context help <br>
